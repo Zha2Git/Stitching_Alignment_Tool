@@ -1,4 +1,4 @@
-# Stiching_Alignment_Tool
+# Stitching_Alignment_Tool
 
 This toolkit consists of two tools: **image stitching** and **alignment** for microscopy images.
 
@@ -47,7 +47,7 @@ python3 -m pip install --user -r requirements.txt
 ### Tool 1: Image Stitching
 
 **Developer**: Independently developed by Y.Zhang  
-**Main Program**: `OmeTiff_Stiching_Batch_Processing.ipynb`
+**Main Program**: `OmeTiff_Stitching_Batch_Processing.ipynb`
 
 > 💡 Please follow the instructions within the Notebook
 
@@ -65,7 +65,7 @@ python3 -m pip install --user -r requirements.txt
 
 ##### 1.3 Program Configuration
 
-Set the **root directory** in `OmeTiff_Stiching_Batch_Processing.ipynb`, then run the program.
+Set the **root directory** in `OmeTiff_Stitching_Batch_Processing.ipynb`, then run the program.
 
 ##### 1.4 Batch Processing
 
@@ -129,6 +129,7 @@ Set the **root directory** in `OmeTiff_Stiching_Batch_Processing.ipynb`, then ru
 #### Command-Line Interface
 
 If you want to call the `main.py` function through the **command-line interface** instead of running it in **Jupyter Notebook**, or to learn about the detailed functions of each module of **HiFiAlignmentTool**, please read the **README file of the original developer**.
+
 
 
 
