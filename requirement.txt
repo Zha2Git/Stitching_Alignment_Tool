@@ -1,4 +1,4 @@
-# Core dependencies for Tiff_Stiching module and notebooks
+# Core dependencies for Tiff_Stitching module and notebooks
 
 # Install using: python3 -m pip install [--user] -r requirements.txt
 numpy>=1.22.2
@@ -8,5 +8,6 @@ pystackreg>=0.2.5
 pandas>=1.4.1
 jupyter
 ipykernel
+
 
 
