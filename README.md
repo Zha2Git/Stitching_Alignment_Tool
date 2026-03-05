@@ -1,7 +1,7 @@
-# Stitching_Alignment_Tool
+# Stitching_Alignment_Tool [![DOI](https://zenodo.org/badge/1138627158.svg)](https://doi.org/10.5281/zenodo.18877680)
 
 This toolkit consists of two tools: **image stitching** and **alignment** for microscopy images.
-[![DOI](https://zenodo.org/badge/1138627158.svg)](https://doi.org/10.5281/zenodo.18877680)
+
 ---
 
 ## Table of Contents
@@ -129,6 +129,7 @@ Set the **root directory** in `OmeTiff_Stitching_Batch_Processing.ipynb`, then r
 #### Command-Line Interface
 
 If you want to call the `main.py` function through the **command-line interface** instead of running it in **Jupyter Notebook**, or to learn about the detailed functions of each module of **HiFiAlignmentTool**, please read the **README file of the original developer**.
+
 
 
 
